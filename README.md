@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EdwinLamarWalker/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring VM's(Virtual Machines) In Azure](https://github.com/EdwinLamarWalker/configure-ad)
+  - [Configuring VM's(Virtual Machines) In Azure](https://github.com/EdwinLamarWalker/configure-VM)
   - [Observing Icmp Traffic In Azure Using Powershell](https://github.com/EdwinLamarWalker/azure-network-protocols)
   - [Setting Up Vpn(Virtual Private Network) In Azure Virtual Machine](https://github.com/EdwinLamarWalker/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
