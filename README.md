@@ -3,11 +3,11 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-- [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/EdwinLamarWalker/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring VM's(Virtual Machines) In Azure](https://github.com/joshmadakorcc/configure-ad)
-  - [Observing Icmp Traffic In Azure Using Powershell](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Setting Up Vpn(Virtual Private Network) In Azure Virtual Machine](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring VM's(Virtual Machines) In Azure](https://github.com/EdwinLamarWalker/configure-ad)
+  - [Observing Icmp Traffic In Azure Using Powershell](https://github.com/EdwinLamarWalker/azure-network-protocols)
+  - [Setting Up Vpn(Virtual Private Network) In Azure Virtual Machine](https://github.com/EdwinLamarWalker/azure-network-protocols)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
