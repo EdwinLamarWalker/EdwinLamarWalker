@@ -1,6 +1,6 @@
-<h1>Welcome, I'm Edwin, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Welcome, I'm Edwin, an <a href="https://linkedin.com/in/Josh">IT Professional</a>🤓</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring VM's(Virtual Machines) In Azure](https://github.com/EdwinLamarWalker/configure-VM)
