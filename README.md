@@ -6,7 +6,7 @@
   - [Configuring VM's(Virtual Machines) In Azure](https://github.com/EdwinLamarWalker/configure-VM)
   - [Performing Tasks In Azure VM's Using Powershell and Wireshark](https://github.com/EdwinLamarWalker/azure-tasks-wireshark)
   - [Setting Up Vpn(Virtual Private Network) In Azure Virtual Machine](https://github.com/EdwinLamarWalker/Virtual-private-network)
-<h2>📲Connect with me:</h2>
+<h2>👣Connect with me:</h2>
 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
